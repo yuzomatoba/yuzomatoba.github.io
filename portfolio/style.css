@@ -1,0 +1,13 @@
+.fonte {
+    font-size: medium;
+}
+
+.formato {
+    font-size: larger;
+    font-style: italic;
+    font-weight: 900;
+}
+
+head {
+    background-color: darkkhaki;
+}
